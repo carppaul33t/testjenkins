@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\testjenkins\\testjenkins\\.git;
-GitRepositoriesView.GitDirectories.relative=testjenkins\\.git;
+GitRepositoriesView.GitDirectories=C\:\\testjenkins\\.git;C\:\\testjenkins\\testjenkins\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;testjenkins\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

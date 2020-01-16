@@ -9,4 +9,7 @@
 	</section>
 	<section name="JavaElementSearchActions">
 	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="6"/>
+	</section>
 </section>

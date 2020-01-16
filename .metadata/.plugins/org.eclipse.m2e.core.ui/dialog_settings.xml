@@ -45,14 +45,17 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.hibernate.app"/>
 			<item value="com.testjenkins"/>
 			<item value="testjenkins"/>
 		</list>
 		<list key="name">
+			<item value="hibernate_demo"/>
 			<item value="myapp"/>
 			<item value="testjenkins"/>
 		</list>
 		<list key="artifactId">
+			<item value="hellohibernate"/>
 			<item value="testjenkins"/>
 		</list>
 		<list key="projectNameTemplate">
